@@ -1,5 +1,5 @@
 Hi there my name is Elijah
-<h1>Hi, I'm Elijah, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Elijah, an <a href="https://linkedin.com/in/elijah-s-7721372a2/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
